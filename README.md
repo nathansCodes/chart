@@ -8,6 +8,7 @@ A running Postgres installation
 # How to build
 
 1. Install Rust: [https://rust-lang.org/tools/install/]
+   - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 2. Build: Run `cargo build`
 
 # How to run
