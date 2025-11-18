@@ -3,7 +3,6 @@
 A running Postgres installation
 
 - Create a new database called "german-military" and a user of the same name in PGAdmin (or change `.env` accordingly) and run the `schema.sql` to create the tables and insert data
-- Update `.env` accordingly
 
 # How to build
 
